@@ -9,3 +9,4 @@ Python script to display AngularJS modules and their dependencies
 - receive ``excludeDir`` argument from command line
 - display module dependencies in more readable way
 - can read multiple modules from one file
+- ignore space in regx
