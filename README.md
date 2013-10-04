@@ -10,3 +10,4 @@ Python script to display AngularJS modules and their dependencies
 - display module dependencies in more readable way
 - can read multiple modules from one file
 - ignore space in regx
+- use ``string.format`` instead of ``+`` sign
