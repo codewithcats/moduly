@@ -24,3 +24,5 @@ angular.module('services', [])
 - can read multiple modules from one file
 - ignore space in regx
 - use ``string.format`` instead of ``+`` sign
+- filter to see only interesting modules' dependencies
+- edit html to include dependency scripts
